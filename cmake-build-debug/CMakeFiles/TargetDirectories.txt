@@ -1,0 +1,3 @@
+D:/Student-System-oop/cmake-build-debug/CMakeFiles/Student_System_oop.dir
+D:/Student-System-oop/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Student-System-oop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
